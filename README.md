@@ -6,7 +6,7 @@ contato@relesi.com.br
 
 renatolessa.2011@hotmail.com
 
-Foram utilizadas as seguintes ferramentas:
+Desenvolvido com:
 
 
 PHP
@@ -15,4 +15,5 @@ CSS
 SCSS
 JAVASCRIPT
 BOOTSTRAP
+MYSQL
 
